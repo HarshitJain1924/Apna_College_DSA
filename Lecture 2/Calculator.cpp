@@ -10,6 +10,6 @@ int main()
     cout << "Difference: " << a - b << endl;
     cout << "Product: " << a * b << endl;
     cout << "Quotient: " << a / b << endl;
-    cout << "Remainder: " << a % b << endl;
+    cout << "Modulo: " << a % b << endl;
     return 0;
 }
